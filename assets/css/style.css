@@ -55,3 +55,34 @@ h1, h2 {
 .active{
     border-bottom: 1px solid #3a3a3a;
 }
+
+/* Player image */
+ 
+#player-outer{
+    height:600px;
+    width: 100%;
+    overflow: hidden;
+    /*position: relative*/
+    }
+
+#player-image{
+    height:600px;
+    width: 100%;
+    background: url("../images/player-image.jpg") no-repeat center center;
+    
+    /* Animates zoom effect on loading the page */
+    
+    animation-name: player-zoom;
+    animation-duration: 5s;
+    animation-fill-mode: forwards;
+}
+
+/* Creates the level of zoom for hero image */
+@keyframes player-zoom {
+    from{
+        transform: scale(1);
+    }
+    to{
+        transform: scale(1.1);
+    }
+}
