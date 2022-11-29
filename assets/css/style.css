@@ -110,3 +110,29 @@ h1, h2 {
 
     position: absolute;
 }
+
+/* football-club */
+
+#football-club{
+    height: 600px;
+}
+
+#left-about{
+    padding-top: 30px;
+    width: 33%;
+    float: left;
+    background-color: red;
+}
+
+#right-about {
+    padding-top: 30px;
+    width: 33%;
+    float: right;
+    background-color: blue;
+}
+
+#center-about {
+    width: 33%;
+    margin: 0 auto;
+    background-color: green;
+}
