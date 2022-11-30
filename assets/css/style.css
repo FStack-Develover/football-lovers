@@ -198,7 +198,7 @@ hr {
 }
 /* Event times */
 
-#times{
+#times {
     background-image: url("../images/berlin2-image.PNG");
     background-repeat: no-repeat;
     background-position: center;
@@ -227,20 +227,20 @@ hr {
 
 /* Footer */
 
-footer{
+footer {
     height: 150px;
 }
 
-.social-networks{
+.social-networks {
     text-align: center;
 
 }
 
-.social-networks li{
+.social-networks li {
     display: inline;
 }
 
-.social-networks i{
+.social-networks i {
     font-size: 160%;
     margin: 1%;
     padding: 5%;
@@ -256,7 +256,7 @@ footer{
     column-gap: 0px;
 }    
 
-#photos img{
+#photos img {
     width: 100%;
 }
 
@@ -264,7 +264,7 @@ footer{
 
 /* For large to medium screens sizes from 1200px wide and down */
 @media screen and (max-width: 1200px){
-    #football-club{
+    #football-club {
         width: 65%;
         height: 1200px;
         margin: 0 auto;
@@ -281,7 +281,7 @@ footer{
         padding: 0;
     }
 
-    #center-about{
+    #center-about {
         clear: both;
         width: 100%;
         float: left;
@@ -303,7 +303,7 @@ footer{
 /* For medium screens sizes from 950px wide and down */
 @media screen and (max-width: 950px){
 
-    #menu{
+    #menu {
         clear: left;
         float: left;
         margin-left: 30px; 
@@ -312,7 +312,7 @@ footer{
     }
 
 
-    #cover-text{
+    #cover-text {
         left:0px;
         font-size: 110%;
         padding-top: 100px;
@@ -325,22 +325,28 @@ footer{
         margin: 0 auto;
     }
 
-    .left-about-heading, .right-about-heading{
+    .left-about-heading, .right-about-heading {
         width: inherit;
     }
 
-    .left-about-heading h2, .right-about-heading h2{
+    .left-about-heading h2, .right-about-heading h2 {
         width: 100%;
         text-align: center;
     }
 
-    .left-about-heading p, .right-about-heading p{
+    .left-about-heading p, .right-about-heading p {
         text-align: center;
         padding: 0 20px 0 20px;
     }
 
-    #photos{
+    #photos {
         column-count: 2;
     }
+}
 
+/* For small screens sizes from 800px wide and down */
+@media screen and (max-width: 800px){
+    #photos {
+        column-count: 1;
+    }
 }
