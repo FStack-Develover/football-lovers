@@ -121,20 +121,17 @@ h1, h2 {
     padding-top: 30px;
     width: 33%;
     float: left;
-    background-color: red;
 }
 
 #right-about {
     padding-top: 30px;
     width: 33%;
     float: right;
-    background-color: #aaa;
 }
 
 #center-about {
     width: 33%;
     margin: 0 auto;
-    background-color: green;
 }
 
 hr {
@@ -172,4 +169,30 @@ hr {
 
 .right-about-heading h2 {
     text-align: right;
+}
+
+/* Football-club center image */
+
+#welcome {
+    margin: 20px 0;
+    text-align: center;
+    font-size: 280%;
+}
+
+#circle-container {
+    width: 300px;
+    height: 300px;
+    padding: 30px;
+    border-style: solid;
+    border-color: #789494;
+    border-width: 1px;
+    border-radius: 50%;
+    margin: 0 auto;
+}
+
+#circle-cover-bg {
+    background: url("../images/ball-image.png") no-repeat center center;
+    background-size: 330px;
+    height: 100%;
+    border-radius: 90%;
 }
