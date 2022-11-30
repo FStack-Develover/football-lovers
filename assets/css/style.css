@@ -332,4 +332,8 @@ footer{
         padding: 0 20px 0 20px;
     }
 
+    #photos{
+        column-count: 2;
+    }
+
 }
