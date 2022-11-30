@@ -196,3 +196,13 @@ hr {
     height: 100%;
     border-radius: 90%;
 }
+/* Event times */
+
+#times{
+    background-image: url("../images/berlin2-image.PNG");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:cover;
+    width: 100%;
+    overflow: hidden;
+}
