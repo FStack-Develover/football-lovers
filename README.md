@@ -1,14 +1,115 @@
-## Football Lovers
-
+# Football Lovers
+-----
 This site is aimed primarily at employees and all sorts of professionals who want to relieve some stress after work and meet new people while playing football. User of this website will be able to find all the information about football lovers: mision statement, meeting times, pricing, social media and a sign up form.
 
+pic responsiv
+
+-----
+## Features
+
+-----
+* Navigation
+
+    - fksajk
+    - 
+    - 
+    - 
+
+navigation pic
+
+-----
+* The Header
+
+    - 
+    - 
+    - 
+
+header pic
+
+-------
+* The be part of us section
+
+    - 
+    - 
+    - 
+
+be part of us pic
+
+-----
+* The meeting times section
+
+    - 
+    - 
+    -
+
+meeting times pic
+
+-----
+* The social media / contact section
+
+    - 
+    - 
+    - 
+
+pic social media
+
+--------------
+* The gallery page
+
+    - 
+    - 
+    - 
+
+pic gallery page
+
+--------------
+* The sign up page
+
+    - 
+    - 
+    - 
+
+pic sign up page
+
+--------------
+## Testing
+--------
+* 
+* 
+* 
+
+### Bugs
+#### solved bugs
+- 
+- 
+
+### Validator Testing
+- HTML
+- CSS
+- Accessibility
+    - dsa
+
+pic access
+
+#### Unfixed Bugs
+
+## Deployment
+-----
+- ffdsf
+    - dsad
+    - dsad
+## Credits
+-----
+### Content
+- dsd
+### Media
+- dsd 
 
 
-------
 
-## Release History
 
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
+
+
 
 **September 1 2021:** Remove `PGHOSTADDR` environment variable.
 
