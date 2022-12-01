@@ -43,42 +43,43 @@ meeting times pic
 -----
 * The social media / contact section
 
-    - By clicking on the links facebook , tweeter, instagram or youtube the user can get in touch with the group 
-    - 
-    - 
+    - By contact us section user can get in touch with the group
+    - By clicking on the links facebook , tweeter, instagram or youtube the user can access to our social media information. 
 
-pic social media
+pic contact us social media
 
 --------------
 * The gallery page
 
-    - 
-    - 
-    - 
-
+    - Here users can find different images of old meetings
+    
 pic gallery page
 
 --------------
 * The sign up page
 
-    - 
-    - 
-    - 
+    - Here users can sign up to Football Lovers.
+    - The form collects first name, last name and email address. 
+    - Users can choose by clicking on the radio buttons which district they prefer for playing.
+    - The sign up form gives the user the ability to sign up to join to Football Lovers.
 
 pic sign up page
 
 --------------
 ## Testing
 --------
-* 
-* 
-* 
+* I tested that this page works in different browsers: chrome, firefox, safari.
+* This is a responsive project, it looks nice and functions on all standard screen sizes using the devtools device toolbar.
+* Navigation, Header, be part of us section, contact us gallery page and sign up page are readable and easy to understand.
+* The form works, requires entries in every field, only accept corresponding values vor name and email
+* The radio button works as expected.
+* Let's play button works 
 
 ### Bugs
 #### solved bugs
-- 
-- 
-
+- When i was coding i realized that my css dont have any effect by styling.
+- This was because i didnt pay attention at the syntax. i wrote #hero zoom instead #hero-zoom
+- I add the missed "-" and solved my problem 
 ### Validator Testing
 - HTML
     - No errors were returned when passing through the official W3C validator. 
@@ -90,18 +91,20 @@ pic sign up page
 pic access
 
 #### Unfixed Bugs
-
+No unfixed bugs.
 ## Deployment
 -----
-- ffdsf
-    - dsad
-    - dsad
+- The site was deployed to Github pages as follows:
+    - Choose the right reposotory in Github
+    - From the source section drop down menu, select deploy from a branch.
+    - By branch select main and click by save
+    - A few minutes late the page provided the link to the completed website
 ## Credits
 -----
 ### Content
-- dsd
+- For the code of this project i used as template the Love Running Project provided by Code Institute
 ### Media
-- dsd 
+- The image in the header was taken from pexels.
 
 
 
