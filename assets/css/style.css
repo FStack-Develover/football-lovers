@@ -226,6 +226,14 @@ hr {
     color: #faf0f0;
 }
 
+#contact-us {
+    text-align: center;
+    font-size: 120%;
+    margin: 1%;
+    padding: 5%;
+    color: #3a3a3a;
+}
+
 /* Footer */
 
 footer {

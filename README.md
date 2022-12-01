@@ -10,44 +10,40 @@ pic responsiv
 -----
 * Navigation
 
-    - fksajk
-    - 
-    - 
-    - 
+    - At the top of the page shows the group name in the right corner: FOOTBALL LOVERS.
+    - The navigation links are to the left: home, gallery and sign up which links to different pages. This document consists of three pages.  
+    - The navigation font contrasts with the background
+    - The navigation makes the different pages of the website easy to find. 
 
 navigation pic
 
 -----
 * The Header
 
-    - 
-    - 
-    - 
+    - The header shows the name of the group and the places where it be played football. It contrasts with the background.
+    - The background image gives also information, which mision statements the group has.  
+    - The text provides the user information about what the group is.
 
 header pic
 
 -------
 * The be part of us section
 
-    - 
-    - 
-    - 
+    - This section explains the users what can they expect of the group: relax, meeting new friends, drinks and food and option to play football in summer and in winter.
 
 be part of us pic
 
 -----
 * The meeting times section
 
-    - 
-    - 
-    -
+    - give Information about places where the games take part, about pricing and meeting times. 
 
 meeting times pic
 
 -----
 * The social media / contact section
 
-    - 
+    - By clicking on the links facebook , tweeter, instagram or youtube the user can get in touch with the group 
     - 
     - 
 
