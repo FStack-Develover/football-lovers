@@ -64,7 +64,7 @@ This site is aimed primarily at employees and all sorts of professionals who wan
     - Users can choose by clicking on the radio buttons which district they prefer for playing.
     - The sign up form gives the user the ability to sign up to join to Football Lovers.
 
-pic sign up page
+![diego maradona](/assets/images/signup.PNG)
 
 --------------
 ## Testing
@@ -79,8 +79,8 @@ pic sign up page
 ### Bugs
 #### solved bugs
 - When i was coding i realized that my css dont have any effect by styling.
-- This was because i didnt pay attention at the syntax. i wrote #hero zoom instead #hero-zoom
-- I add the missed "-" and solved my problem 
+- This was because i didnt pay attention at the syntax. i wrote #hero zoom instead #hero-zoom.
+- I add the missed "-" and solved my problem. 
 ### Validator Testing
 - HTML
     - No errors were returned when passing through the official W3C validator. 
@@ -89,4 +89,38 @@ pic sign up page
 - Accessibility
     - I confirmed that the colors and fonts chose are easy to read and accesible by running it through lighthouse in devtools.
 
-pic access
+**Results of main page**
+
+![validator results main](/assets/images/access-main.PNG)
+
+**Results of gallery page**
+
+![validator results gallery](/assets/images/access-gallery.PNG)
+
+**Results of sign up page**
+
+![validator results sign up](/assets/images/access-signup.PNG)
+
+#### **Unfixed Bugs**
+
+No unfixed bugs
+
+## Deployment
+--------------
+- The site was deployed to GitHub pages with following steps
+    - In the GitHub repository navigate to the Settings tab.
+    - On the left bar select pages.
+    - By Build and Deployment select Source/Deploy from a branch.
+    - By Branch select main and click by save.
+    - Once save has been clicked, the page provided the link to the completed website.
+
+- The live link can be found here **link**
+
+## Credits
+-------
+### Content
+- A Template called **Love running** which was provided by **Code Institute**  has been used for Coding of this website.
+
+### Media
+- The image in the header was taken from *Pexels*
+- The rest of the images that were included in the gallery page and in the sign up page come from various websites.
