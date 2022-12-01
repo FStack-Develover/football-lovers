@@ -1,8 +1,8 @@
 # Football Lovers
 -----
-This site is aimed primarily at employees and all sorts of professionals who want to relieve some stress after work and meet new people while playing football. User of this website will be able to find all the information about football lovers: mision statement, meeting times, pricing, social media and a sign up form.
+This site is aimed primarily at employees and all sorts of professionals who want to relieve some stress after work and meet new people while playing football. Users of this website will be able to find all the information about football lovers: mision statement, meeting times, pricing, social media and a sign up form.
 
-pic responsiv
+![screenshot different devices](/assets/images/1-responsivness.PNG)
 
 -----
 ## Features
@@ -15,7 +15,7 @@ pic responsiv
     - The navigation font contrasts with the background
     - The navigation makes the different pages of the website easy to find. 
 
-navigation pic
+![navigation menu](/assets/images/navi-menue.PNG)
 
 -----
 * The Header
@@ -24,21 +24,21 @@ navigation pic
     - The background image gives also information, which mision statements the group has.  
     - The text provides the user information about what the group is.
 
-header pic
+![header of page guys playing football](/assets/images/header.PNG)
 
 -------
 * The be part of us section
 
     - This section explains the users what can they expect of the group: relax, meeting new friends, drinks and food and option to play football in summer and in winter.
 
-be part of us pic
+![ball image explanation why be part of football lovers](/assets/images/bepartofus.PNG)
 
 -----
 * The meeting times section
 
     - give Information about places where the games take part, about pricing and meeting times. 
 
-meeting times pic
+![meeting times image background charlottenburg schloss](/assets/images/meetingtimes.PNG)
 
 -----
 * The social media / contact section
@@ -46,14 +46,15 @@ meeting times pic
     - By contact us section user can get in touch with the group
     - By clicking on the links facebook , tweeter, instagram or youtube the user can access to our social media information. 
 
-pic contact us social media
+![contact us image](/assets/images/contactus.PNG)
+![social media icons](/assets/images/socialmedia.PNG)
 
 --------------
 * The gallery page
 
     - Here users can find different images of old meetings
     
-pic gallery page
+![football players gallery page](/assets/images/gallery.PNG)
 
 --------------
 * The sign up page
