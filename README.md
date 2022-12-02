@@ -83,9 +83,9 @@ This site is aimed primarily at employees and all sorts of professionals who wan
 - I add the missed "-" and solved my problem. 
 ### Validator Testing
 - HTML
-    - No errors were returned when passing through the official W3C validator. 
+    - No errors were returned when passing through *[the official W3C validator](https://validator.w3.org/nu/#textarea)*.
 - CSS
-    - No errors were returned when passing through the official (Jigsaw) validator.
+    - No errors were returned when passing through *[the official (Jigsaw) validator](http://jigsaw.w3.org/css-validator/)*.
 - Accessibility
     - I confirmed that the colors and fonts chose are easy to read and accesible by running it through lighthouse in devtools.
 
@@ -114,12 +114,12 @@ No unfixed bugs
     - By Branch select main and click by save.
     - Once save has been clicked, the page provided the link to the completed website.
 
-- The live link can be found **[here](https://fstack-develover.github.io/football-lovers/)**.
+- The live link can be found *[here](https://fstack-develover.github.io/football-lovers/)*.
 
 ## Credits
 -------
 ### Content
-- A Template called **[Love Running](https://github.com/Code-Institute-Solutions/love-running-2.0-sourcecode)** which was provided by **[Code Institute](https://codeinstitute.net/)**  has been used for Coding of this website.
+- A Template called *[Love Running](https://github.com/Code-Institute-Solutions/love-running-2.0-sourcecode)* which was provided by *[Code Institute](https://codeinstitute.net/)*  has been used for Coding of this website.
 
 ### Media
 - The image in the header was taken from *[Pexels](https://www.pexels.com/)*
