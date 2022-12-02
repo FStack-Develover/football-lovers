@@ -79,7 +79,7 @@ This site is aimed primarily at employees and all sorts of professionals who wan
 ### Bugs
 #### solved bugs
 - When i was coding i realized that my css dont have any effect by styling.
-- This was because i didnt pay attention at the syntax. i wrote #hero zoom instead #hero-zoom.
+- This was because i didnt pay attention at the syntax. i wrote `#hero zoom` instead `#hero-zoom`.
 - I add the missed "-" and solved my problem. 
 ### Validator Testing
 - HTML
@@ -114,13 +114,13 @@ No unfixed bugs
     - By Branch select main and click by save.
     - Once save has been clicked, the page provided the link to the completed website.
 
-- The live link can be found here **link**
+- The live link can be found **[here](https://fstack-develover.github.io/football-lovers/)**.
 
 ## Credits
 -------
 ### Content
-- A Template called **Love running** which was provided by **Code Institute**  has been used for Coding of this website.
+- A Template called **[Love Running](https://github.com/Code-Institute-Solutions/love-running-2.0-sourcecode)** which was provided by **[Code Institute](https://codeinstitute.net/)**  has been used for Coding of this website.
 
 ### Media
-- The image in the header was taken from *Pexels*
+- The image in the header was taken from *[Pexels](https://www.pexels.com/)*
 - The rest of the images that were included in the gallery page and in the sign up page come from various websites.
